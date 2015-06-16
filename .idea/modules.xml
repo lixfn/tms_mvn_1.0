@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.fly.tms.iml" filepath="$PROJECT_DIR$/com.fly.tms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao/com.fly.tms.dao.iml" filepath="$PROJECT_DIR$/dao/com.fly.tms.dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dao-business/com.fly.tms.dao-business.iml" filepath="$PROJECT_DIR$/dao-business/com.fly.tms.dao-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/com.fly.tms.service.iml" filepath="$PROJECT_DIR$/service/com.fly.tms.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/com.fly.tms.web.iml" filepath="$PROJECT_DIR$/web/com.fly.tms.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util/com.fly.util.iml" filepath="$PROJECT_DIR$/util/com.fly.util.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/src/main/main.iml" filepath="$PROJECT_DIR$/web/src/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/web/src/test/test.iml" filepath="$PROJECT_DIR$/web/src/test/test.iml" />
     </modules>
